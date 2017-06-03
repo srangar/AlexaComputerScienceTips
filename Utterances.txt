@@ -1,0 +1,6 @@
+GetNewTipIntent a tip
+GetNewTipIntent give me a tip
+GetNewTipIntent give me a cs tip
+GetNewTipIntent give me a computer science tip
+GetNewTipIntent teach me something
+AMAZON.HelpIntent help me
